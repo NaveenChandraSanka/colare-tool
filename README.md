@@ -1,4 +1,4 @@
-# Colare — Post-Event Email Outbound Automation
+# Auto-Outbound — Post-Event Email Outbound Automation for Colare
 
 A full-stack system that automates personalized post-event email outreach. When attendees register for an event, the system uses Google Gemini AI to generate personalized email content, syncs contacts to Loops.so for drip sequences, and sends immediate confirmations via Resend.
 
